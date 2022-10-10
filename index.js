@@ -1,6 +1,6 @@
 
-// Input là một mảng các số nguyên dương từ 1 -> 100
-// Output là tổng của giá trị lớn nhất và giá trị nhỏ nhất trong mảng đó
+// Bài toán: Cho một mảng có ít nhất 1 phần từ và có tối đa 6 phần tử, gồm các số nguyên dương từ 1 -> 100. 
+// Tìm tổng của giá trị lớn nhất và giá trị nhỏ nhất của các phần tử trong mảng đó
 
 const totalMinMax = (arr) => {
     let min = 100;
